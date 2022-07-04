@@ -1,3 +1,4 @@
+# python code
 class Player:
     def __init__(self, playerName, team, playerType, isCaptain, runs, wickets):
         self.playerName = playerName
